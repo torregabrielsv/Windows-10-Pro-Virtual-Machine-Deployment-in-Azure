@@ -11,10 +11,10 @@ Technology/Applications/Services Used:
 •	Azure Resource Groups: For organizing and managing related resources.
 •	Azure Virtual Network: For setting up a virtual network to connect the VM.
 Configuration Details:
-1.	Virtual Machine Name: windows-vm
+1.	Virtual Machine Name: FINAL-VM
 2.	Region: East US 2
-3.	Resource Group Name: RG-Cyber-Lab
-4.	Virtual Network Name: Lab-VNet
+3.	Resource Group Name: RG-FINAL-LAB
+4.	Virtual Network Name: FINAL-VM-vnet
 5.	VM Size: Select an appropriate size that balances cost and performance (e.g., B-series for cost-effectiveness).
 6.	Password: Create a strong password to ensure security.
 The project will include detailed instructions on each of these steps, ensuring that users can deploy and configure their Windows 10 Pro VM effectively.
@@ -103,7 +103,7 @@ The project will include detailed instructions on each of these steps, ensuring 
    - In the Azure Portal, go to **"Virtual machines"**.
 
 2. **Select Your VM:**
-   - Click on `windows-vm` to open the VM’s details page.
+   - Click on `FINAL-VM` to open the VM’s details page.
 
 3. **Connect to the VM: (On Mac)**
    1. Open **Microsoft Remote Desktop** on your Mac.
