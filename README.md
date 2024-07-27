@@ -1,0 +1,2 @@
+# Windows-10-Pro-Virtual-Machine-Deployment-in-Azure
+This project provides a detailed walkthrough for creating and configuring a Windows 10 Pro virtual machine (VM) in Microsoft Azure. The aim is to guide users through the process of setting up a VM with specific configurations, including selecting appropriate sizes, creating a secure environment, and organizing resources effectively within Azure.
