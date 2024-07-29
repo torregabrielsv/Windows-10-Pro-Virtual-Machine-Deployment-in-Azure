@@ -4,21 +4,31 @@ This project provides a detailed walkthrough for creating and configuring a Wind
 ![Screenshot 2024-07-29 at 7 45 30 AM](https://github.com/user-attachments/assets/8bd493d0-2e20-450b-8a83-05bada1f2dbe)
 
 Languages Used:
+
 •	PowerShell: To automate the deployment process and manage Azure resources.
+
 •	Azure CLI: For command-line operations to configure and manage the VM and related resources.
+
 Environments Used:
+
 •	Azure: The primary environment for creating and managing the virtual machine and associated resources.
+
 Technology/Applications/Services Used:
+
 •	Azure Virtual Machines: To host the Windows 10 Pro VM.
+
 •	Azure Resource Groups: For organizing and managing related resources.
+
 •	Azure Virtual Network: For setting up a virtual network to connect the VM.
+
 Configuration Details:
+
 1.	Virtual Machine Name: FINAL-VM
 2.	Region: East US 2
-3.	Resource Group Name: RG-FINAL-LAB
-4.	Virtual Network Name: FINAL-VM-vnet
-5.	VM Size: Select an appropriate size that balances cost and performance (e.g., B-series for cost-effectiveness).
-6.	Password: Create a strong password to ensure security.
+4.	Resource Group Name: RG-FINAL-LAB
+5.	Virtual Network Name: FINAL-VM-vnet
+6.	VM Size: Select an appropriate size that balances cost and performance (e.g., B-series for cost-effectiveness).
+7.	Password: Create a strong password to ensure security.
 The project will include detailed instructions on each of these steps, ensuring that users can deploy and configure their Windows 10 Pro VM effectively.
 
 ### Instructions for Creating a Windows 10 Pro Virtual Machine in Azure
